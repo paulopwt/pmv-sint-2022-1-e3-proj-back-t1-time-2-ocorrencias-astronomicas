@@ -1,23 +1,24 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+ CURSO: Sistemas para Internet
 
-`DISCIPLINA`
+DISCIPLINA: Projeto - Desenvolvimento Web Back-End
 
-`SEMESTRE`
+SEMESTRE: Turma 1 - 2022/1
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+AstroCal é um site voltado para informações sobre eventos astronômicos. Com layout intuitivo e simplificado, permitimos que diversos usuários entusiastas ou profissionais de diversas áreas, acessem a plataforma para consultar ou inserir informações sobre os eventos, fomentando um calendário mensal e anual colaborativo.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+- Ana Luiza Lima
+- Déborah Freitas de Souza
+- Thais Helena
+- Paulo Henrique Moura Da Silva
+- Carolina Dolacio Bechelli
 
 ## Orientador
 
-* Nome completo do professor 1
+Professor Will Machado
 
 ## Instruções de utilização
 
