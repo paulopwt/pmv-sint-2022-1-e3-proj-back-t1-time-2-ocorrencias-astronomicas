@@ -182,20 +182,30 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir busca por palavra-chave referente a ocorrência astronômica   | MÉDIA |
-|RF-002| Tela informativa sobre ocorrências astronômicas   | MÉDIA |
-|RF-003| Apresentar calendário de ocorrências astronômicas   | MÉDIA |
-|RF-004| Permitir que o usuário visualize ocorrências astronômicas visíveis   | MÉDIA |
-|RF-005| Usuário terá a permissão para visualização da página em Light and Dark Mode    | MÉDIA |
-|RF-006| Será possível visualizar em uma página os integrantes do grupo    | MÉDIA |
-|RF-007| Ao clicar na logo deverá ser redirecionado a página inicial    | MÉDIA |
-|RF-008| Ao executar o scroll na tela inical deve ser levada para a tela de eventos astronômicos   | MÉDIA |
+
+|RF-001| Permitir o cadastro  do usuário na plataforma   | ALTA |
+|RF-002| Permitir login de usuários cadastrados   | ALTA |
+|RF-003| Permitir o salvamento dos dados cadastrados no banco de dados   | ALTA |
+|RF-004| Permitir ao usuário inserir comentários visíveis a outros usuários    | MÉDIA |
+|RF-005| Permitir ao usuário inserir fotos visíveis a outros usuários    | MÉDIA |
+|RF-006| Permitir busca por palavra-chave referente a ocorrência astronômica   | MÉDIA |
+|RF-007| Tela informativa sobre ocorrências astronômicas   | MÉDIA |
+|RF-008| Apresentar calendário de ocorrências astronômicas   | MÉDIA |
+|RF-009| Permitir que o usuário visualize ocorrências astronômicas visíveis   | MÉDIA |
+|RF-010| Será possível visualizar em uma página os integrantes do grupo    | BAIXA |
+|RF-011| Ao clicar na logo deverá ser redirecionado a página inicial    | MÉDIA |
+|RF-012| Ao executar o scroll na tela inical deve ser levada para a tela de eventos astronômicos   | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser web | MÉDIA | 
+|RNF-002| O sistema será desenvolvido em HTML5, CSS3 e JS | MÉDIA | 
+|RNF-003| Utilização do Banco de Dados para armazenamento dos dados inseridos pelo usuário | MÉDIA | 
+|RNF-004| A aplicação web será estruturada utilizando ASP.NET
+MVC  | MÉDIA | 
+
 
 
 ## Restrições
@@ -205,7 +215,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Deve ser desenvolvido utilizando de backend        |
+|02| Deve ter o back-end desenvolvido        |
+|03| Deve ter o front-end desenvolvido de forma intuitiva e utilizando dos conceitos de UI/UX       |
 
 ## Diagrama de Casos de Uso
 
