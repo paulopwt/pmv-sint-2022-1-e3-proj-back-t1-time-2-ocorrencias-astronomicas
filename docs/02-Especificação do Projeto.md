@@ -182,7 +182,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-
 |RF-001| Permitir o cadastro  do usuário na plataforma   | ALTA |
 |RF-002| Permitir login de usuários cadastrados   | ALTA |
 |RF-003| Permitir o salvamento dos dados cadastrados no banco de dados   | ALTA |
