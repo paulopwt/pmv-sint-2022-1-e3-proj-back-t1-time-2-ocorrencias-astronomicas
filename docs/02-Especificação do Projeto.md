@@ -203,10 +203,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser web | MÉDIA | 
 |RNF-002| O sistema será desenvolvido em HTML5, CSS3 e JS | MÉDIA | 
 |RNF-003| Utilização do Banco de Dados para armazenamento dos dados inseridos pelo usuário | MÉDIA | 
-|RNF-004| A aplicação web será estruturada utilizando ASP.NET
-MVC  | MÉDIA | 
-
-
+|RNF-004| A aplicação web será estruturada utilizando ASP.NET MVC  | MÉDIA | 
 
 ## Restrições
 
