@@ -56,8 +56,8 @@ etiquetas:
 
 As reuniões são realizadas de forma periódica seguindo o processo XP.
 
-- `Daily & Iteration` realizada diariamente as 19:30
-- `Planejamento de Release` realizada semanalmente as terças-feiras as 21:00
+- `Daily & Iteration` realizada diariamente as 23:00
+- `Planejamento de Release` realizada semanalmente as quartas-feiras as 20:00
 - `Retrospectivas` acontecem de acordo com as entregas
 
 ![Extreme Programming Project](img/xp-project.png)
