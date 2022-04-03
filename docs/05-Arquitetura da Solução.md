@@ -1,6 +1,6 @@
 # Arquitetura da Solução
 
-<img src="img/componentes.png"/>
+<img src="img/Componentes.png"/>
 
 ## Diagrama de Classes
 
