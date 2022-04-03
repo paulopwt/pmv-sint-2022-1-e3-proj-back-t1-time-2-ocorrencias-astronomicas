@@ -39,4 +39,4 @@ A possibilidade de inserção de comentários e imagens sobre ocorrências astro
 <img src="img/Diagrama de fluxo.png"/>
 
 ## Wireframes
-<img src="img/Wireframe"/>
+<img src="img/Wireframe.png"/>
